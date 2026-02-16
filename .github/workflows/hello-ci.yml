@@ -1,6 +1,7 @@
-name: Greeting Workflow
+name : Greeting Workflow
 on: [push]
 
 jobs:
-  say-hello:
-    runs-on: ubuntu-latest
+ say-hello:
+  runs-on: ubuntu-latest
+     
